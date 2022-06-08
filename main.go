@@ -2,6 +2,7 @@ package main
 
 import (
 	"golang-restaurant-management/database"
+	"golang-restaurant-management/middleware"
 	"golang-restaurant-management/routes"
 	"os"
 
